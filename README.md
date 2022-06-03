@@ -10,7 +10,7 @@ jlpm install
 ```
 +) 필수 
 - node 설치
-- export PATH="$HOME/.local/bin:$PATH"
+- ```export PATH="$HOME/.local/bin:$PATH"```
 - mac만 ```brew install pkg-config cairo pango libpng jpeg giflib librsvg```
    
 ### 2. 실행 
